@@ -1,0 +1,78 @@
+h2{
+	font-size: 50px;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: 50px;
+}
+
+li{
+	display: inline-block;
+	width: 200px;
+	margin-top: 50px;
+}
+
+.logo{
+	vertical-align: -0.5em;
+    margin-left: 10px;
+}
+.test{
+	display: inline-block;
+	margin-left: 30px;
+	
+}
+.surati{
+	margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 90px;
+    display: inline-block;
+    width: 1170px;
+    height: 460px
+}
+.texti{
+	font-size: 23px;
+    margin-left: 90px;
+}
+
+
+	#container{
+		margin-left: 100px;
+  width:1200px;
+  padding-top:50px;
+  display: inline-flex;
+}
+
+.one{
+  background: #F2F2F2;
+  width:550px;
+  height:200px;
+  float:left;
+  padding: 25px;
+
+}
+.two{
+  width:550px;
+  height:200px;
+  background:#F2F2F2;
+  overflow:hidden;
+ 	margin-left: 10px;
+  padding: 25px;
+
+}
+.picture{
+	float:left; 
+	width: 84.81px;
+	height: 127.51px;
+}
+.lorem{
+ text-align: right;
+}
+
+.facebook{
+	margin-top: 30px;
+	margin-left: 100px;
+}
+.youtube{
+	margin-left: 10px;
+}
+
+
